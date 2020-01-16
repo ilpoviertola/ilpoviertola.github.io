@@ -11,11 +11,7 @@
 
 ### My Python Projects
 
-- [Coming Soon](http://example.com/)
+ [Coming Soon](http://example.com/)
 
 ---
 
-
-
-
----
