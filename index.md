@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### My C++ Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hanoi Tower](/sample_page)
+<img src="images/hanoi.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
