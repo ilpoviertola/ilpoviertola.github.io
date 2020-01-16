@@ -4,7 +4,7 @@
 
 ### My C++ Projects 
 
-[Hanoi Tower](/sample_page)
+[Hanoi Tower](/sample_page.md)
 <img src="images/hanoi.png?raw=true"/>
 
 ---
