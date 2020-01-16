@@ -4,7 +4,7 @@
 
 ### My C++ Projects 
 
-[Hanoi Tower](/sample_page.md)
+[Hanoi Tower](https://github.com/ilpoviertola/hanoi/tree/master)
 <img src="images/hanoi.png?raw=true"/>
 
 ---
