@@ -2,12 +2,16 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: personal info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: human
+      - title: doctoral student @ tampere university
+      - title: "<a href='https://www.sciencedirect.com/topics/computer-science/multimodality#:~:text=Multimodality%20is%20a%20representation%20of,From%3A%20Information%20Fusion%2C%202023'>multimodal</a> media generation through deep learning"
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+        url: https://github.com/ilpoviertola
+      - title: linkedin
+        url: https://www.linkedin.com/in/ilpo-viertola/
+      - title: dj // photography // your-average-nature-enjoyer
 
   - title: all posts
     post_list:
