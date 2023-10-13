@@ -6,12 +6,13 @@ entries:
     entries:
       - title: human
       - title: doctoral student @ tampere university
-      - title: "<a href='https://www.sciencedirect.com/topics/computer-science/multimodality#:~:text=Multimodality%20is%20a%20representation%20of,From%3A%20Information%20Fusion%2C%202023'>multimodal</a> media generation through deep learning"
-      - title: github repo
-        url: https://github.com/ilpoviertola
-      - title: linkedin
-        url: https://www.linkedin.com/in/ilpo-viertola/
-      - title: "<a href='https://soundcloud.com/armas666'>dj</a> // photography // your-average-nature-enjoyer"
+        entries
+        - title: "<a href='https://www.sciencedirect.com/topics/computer-science/multimodality#:~:text=Multimodality%20is%20a%20representation%20of,From%3A%20Information%20Fusion%2C%202023'>multimodal</a> media generation through deep learning"
+        - title: github repo
+          url: https://github.com/ilpoviertola
+        - title: linkedin
+          url: https://www.linkedin.com/in/ilpo-viertola/
+      - title: "<a href='https://soundcloud.com/armas666'>dj</a> // <a href='https://vsco.co/ilpo-shooting-film'>photograper</a> // <a href='https://elokapina.fi'>your-average-nature-enjoyer</a>"
 
   - title: all posts
     post_list:
