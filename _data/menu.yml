@@ -6,7 +6,7 @@ entries:
     entries:
       - title: human
       - title: doctoral student @ tampere university
-        entries
+        entries:
         - title: "<a href='https://www.sciencedirect.com/topics/computer-science/multimodality#:~:text=Multimodality%20is%20a%20representation%20of,From%3A%20Information%20Fusion%2C%202023'>multimodal</a> media generation through deep learning"
         - title: github repo
           url: https://github.com/ilpoviertola
