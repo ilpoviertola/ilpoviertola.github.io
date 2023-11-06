@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: project
-title: All posts of category 'project'
+which_category: projects
+title: All posts of category 'projects'
 ---
