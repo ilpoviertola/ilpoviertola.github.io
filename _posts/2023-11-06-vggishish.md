@@ -12,5 +12,5 @@ This VGGIshIsh follows the idea introduced by Vladimir Iashin and Esa Rahtu in t
 ---
 {: data-content="footnotes"}
 
-[^1]: Visually Indicated Sounds by Andrew Owens et. al @ https://andrewowens.com/vis/
-[^2]: Taming Visually Guided Sound Generation by Vladimir Iashin & Esa Rahtu @ https://github.com/v-iashin/SpecVQGAN
+[^1]: Visually Indicated Sounds by Andrew Owens et. al @ (https://andrewowens.com/vis/)[https://andrewowens.com/vis/]
+[^2]: Taming Visually Guided Sound Generation by Vladimir Iashin & Esa Rahtu @ (https://github.com/v-iashin/SpecVQGAN)[https://github.com/v-iashin/SpecVQGAN]
