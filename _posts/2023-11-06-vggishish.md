@@ -1,9 +1,8 @@
 ---
 layout: post
 category: projects
+title: vggishish
 ---
-
-# VGGIshIsh
 
 I have just released a new project! It is and VGG16 based audio classifier. This particular project is inteded to classify between scratch and hit sounds which are extracted from the *Greatest Hit* [^1] dataset by Andrew Owens et. al.
 
