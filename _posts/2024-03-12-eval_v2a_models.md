@@ -6,9 +6,9 @@ title: evaluate generative v2a models
 
 ttTtRRR 🥁🥁
 
-Today I released a very early beta version of a (looong-term) project. Main idea is to provide easy and (semi) automated pipeline to test visual2audio (or anything2audio) models! Basically all user needs is to have ground truth videos and videos where audio was generated with v2a model... and then run the pipeline. It will calculate some metrics and visualize the results 🤠.
+Today I released a very early beta version of a (looong-term) project. Main idea is to provide easy and (semi) automated pipeline to test visual2audio (or anything2audio) models! Basically all that the user needs is to have the ground truth videos and videos where audio was generated with v2a (or any other generative audio) model... and then run the pipeline. It will calculate user configured metrics and visualize the results 🤠.
 
-At the moment, the evaluation *pipeline* (🤣) consists from 3 different metrics:
+At the moment, the evaluation *pipeline* (🤣) supports 3 different metrics:
 
 1. Frechet Audio Distance (FAD)
 2. Kulback-Leibler Divergence (KLD)
