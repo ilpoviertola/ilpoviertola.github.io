@@ -23,14 +23,20 @@ entries:
 
   - title: posts by category
     post_list:
+      category: articles
+      show_more: true
+      show_more_text: See more articles...
+      show_more_url: articles-archive.html
+    post_list:
       category: projects
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See more projects...
       show_more_url: projects-archive.html
+
 
 #  - title: rss
 #    url: feed.xml
-  
+
 #  - title: another list
 #    entries:
 #      - title: with subitems
