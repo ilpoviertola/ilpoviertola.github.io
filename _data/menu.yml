@@ -14,12 +14,12 @@ entries:
           url: https://www.linkedin.com/in/ilpo-viertola/
       - title: "<a href='https://soundcloud.com/armas666'>dj</a> // <a href='https://vsco.co/ilpo-shooting-film'>photographer</a> // <a href='https://elokapina.fi'>your-average-nature-enjoyer</a>"
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
 
   - title: atricles
     post_list:
