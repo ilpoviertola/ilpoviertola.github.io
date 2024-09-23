@@ -21,12 +21,13 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: atricles
     post_list:
       category: articles
       show_more: true
       show_more_text: See more articles...
       show_more_url: articles-archive.html
+  - title: projects
     post_list:
       category: projects
       show_more: true
