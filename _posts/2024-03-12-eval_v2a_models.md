@@ -1,7 +1,7 @@
 ---
 layout: post
 category: projects
-title: evaluate generative v2a models
+title: evaluate generative models
 ---
 
 ttTtRRR (drumroll)
@@ -14,6 +14,6 @@ At the moment, the evaluation *pipeline* (¯\_(ツ)_/¯) supports 3 different me
 2. Kulback-Leibler Divergence (KLD)
 3. Audio-Visual Synchronisation Score
 
-I am planning on to add more metrics and also to improve the pipeline in general. In the mean time, I hope that this pipeline will be useful for someone else too! You can find the project [here](https://github.com/ilpoviertola/eval_generative_v2a_models).
+I am planning on to add more metrics and also to improve the pipeline in general. In the mean time, I hope that this pipeline will be useful for someone else too! You can find the project [here](https://github.com/ilpoviertola/gmelab).
 
 Until next time ♥‿♥ xoxo
