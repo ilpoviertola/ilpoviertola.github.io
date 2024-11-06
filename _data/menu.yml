@@ -21,7 +21,7 @@ entries:
   #     show_more_text: See archive...
   #     show_more_url: archive.html
 
-  - title: atricles
+  - title: articles
     post_list:
       category: articles
       show_more: true
