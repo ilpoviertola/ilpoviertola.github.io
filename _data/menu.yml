@@ -21,11 +21,11 @@ entries:
   #     show_more_text: See archive...
   #     show_more_url: archive.html
 
-  - title: articles
+  - title: publications
     post_list:
-      category: articles
+      category: publications
       show_more: true
-      show_more_text: See more articles...
+      show_more_text: See more publications...
       show_more_url: articles-archive.html
   - title: projects
     post_list:

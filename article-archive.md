@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: articles
-title: All posts of category 'articles'
+which_category: publications
+title: All posts of category 'publications'
 ---
