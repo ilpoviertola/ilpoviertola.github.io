@@ -7,10 +7,14 @@ entries:
       - title: doctoral researcher @ tampere university
         entries:
         - title: "<a href='https://www.sciencedirect.com/topics/computer-science/multimodality#:~:text=Multimodality%20is%20a%20representation%20of,From%3A%20Information%20Fusion%2C%202023'>multimodal</a> media generation through deep learning"
-        - title: github profile
+        - title: github
           url: https://github.com/ilpoviertola
+        - title: scholar
+          url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH8HC4ymtex5qYkzYq0isste1pDXKWQ8f6t2QH5Ts0a6L_qS5hE06jVfBCR8hFdtICjMs-nb4wXtxDkr8JYijA&user=gGWNg4EAAAAJ
         - title: linkedin
           url: https://www.linkedin.com/in/ilpo-viertola/
+        - title: cv
+          url: https://ilpoviertola.github.io/CV-2025.pdf
       - title: "<a href='https://soundcloud.com/armas666'>dj</a> // <a href='https://vsco.co/ilpo-shooting-film'>photographer</a> // <a href='https://elokapina.fi'>your-average-nature-enjoyer</a>"
 
   # - title: all posts
