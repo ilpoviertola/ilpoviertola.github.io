@@ -4,8 +4,7 @@
 entries:
   - title: personal info
     entries:
-      - title: human
-      - title: doctoral student @ tampere university
+      - title: doctoral researcher @ tampere university
         entries:
         - title: "<a href='https://www.sciencedirect.com/topics/computer-science/multimodality#:~:text=Multimodality%20is%20a%20representation%20of,From%3A%20Information%20Fusion%2C%202023'>multimodal</a> media generation through deep learning"
         - title: github profile
