@@ -1,7 +1,7 @@
 ---
 layout: post
 category: publications
-title: "saganet: video object segmentation-aware audio generation (ijcv 2025)"
+title: "saganet: video object segmentation-aware audio generation (ijcv 2026)"
 ---
 
 ilpo viertola (me), [vladimir iashin](https://v-iashin.github.io/), [esa rahtu](https://esa.rahtu.fi/)
